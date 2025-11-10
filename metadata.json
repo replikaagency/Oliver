@@ -1,0 +1,7 @@
+{
+  "name": "Asistente de Dibujo Técnico AutoCAD",
+  "description": "Un asistente experto en Dibujo Técnico y AutoCAD que te guía paso a paso para resolver ejercicios, ahora con capacidades de IA para generar, analizar y editar imágenes.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
